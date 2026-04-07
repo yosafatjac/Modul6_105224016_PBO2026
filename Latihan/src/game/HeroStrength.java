@@ -1,4 +1,4 @@
-package game.game;
+package game;
 
 public class HeroStrength extends Hero {
     String tipe = "Strength";
