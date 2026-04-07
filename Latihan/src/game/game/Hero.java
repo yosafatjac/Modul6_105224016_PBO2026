@@ -1,4 +1,4 @@
-package game;
+package game.game;
 
 public class Hero {
     String nama;
